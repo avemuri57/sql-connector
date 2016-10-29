@@ -1,0 +1,19 @@
+{
+  "name": "sql-connector",
+  "version": "1.0.0",
+  "description": "This is a test node app to research the security of node SQL adapters",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/avemuri57/sql-connector.git"
+  },
+  "author": "Anand Vemuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avemuri57/sql-connector/issues"
+  },
+  "homepage": "https://github.com/avemuri57/sql-connector#readme"
+}
